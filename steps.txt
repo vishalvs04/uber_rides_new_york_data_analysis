@@ -1,0 +1,17 @@
+Q1. Prepare data for analysis
+Q2. Analysis of which weekday has most rides
+Q3. Analysis of which hour has most rides
+Q4. Analysis of which hour in which month has max rides
+Q5. Analysis of which month has max rides
+Q6. Analysis of Journey of each day
+Q7. Analysis of Total rides month wise
+Q8. Analysing Rush in hour
+Q9. analyse which base number gets popular by month name
+Q10. Cross Analysis:
+	1. Heatmap by hour and weekday
+	2. Heatmap by Hour and Day
+	3. Heatmap by Month and Day
+	4. Heatmap by Month and weekday
+Q11. Analysis of location data points
+Q12. Perform Spatial Analysis using heatmap to get a clear cut of Rush
+Q13. Automate your Analysis
